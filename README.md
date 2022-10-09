@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ahmed
+- 👀 I’m interested in Microcontrollers
+- 🌱 I’m currently learning Embedded Software Development
